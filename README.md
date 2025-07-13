@@ -1,4 +1,3 @@
-# EXOCORTEX
 # 🧠 EXOCORTEX
 
 A meta-cognitive, emotion-adaptive, brain-controlled robotic system — designed to restore agency and independence for individuals with motor impairments.
