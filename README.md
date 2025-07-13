@@ -6,6 +6,18 @@ A meta-cognitive, emotion-adaptive, brain-controlled robotic system — designed
 
 ---
 
+## ⚠️ Intellectual Property Notice
+
+This repository contains research-oriented content for academic visibility and public awareness.  
+The **core innovation behind EXOCORTEX** — including proprietary methods, neuroadaptive models, and emotion-decoding algorithms — is **not fully disclosed** here.
+
+> **Commercial use, replication, or derivative work without explicit permission is strictly prohibited.**
+
+For collaboration inquiries:  
+📧 **sajjadnabil27@gmail.com**
+
+---
+
 ## 🚀 Project Vision
 
 EXOCORTEX aims to build a **low-cost, non-invasive brain–computer interface** that maps cognitive intent and emotional state into **real-time robotic movement**. This system is intended to serve as an assistive arm for differently-abled individuals — blending **neural control**, **affective AI**, and **human–machine symbiosis**.
@@ -42,5 +54,3 @@ EXOCORTEX aims to build a **low-cost, non-invasive brain–computer interface** 
 ---
 
 > *"We don't just build machines — we restore control, dignity, and hope."*
-
-Meta-Cognitive, Emotion-Adaptive, Brain-Controlled Robotic System
