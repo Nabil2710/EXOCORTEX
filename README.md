@@ -54,3 +54,4 @@ EXOCORTEX aims to build a **low-cost, non-invasive brain–computer interface** 
 ---
 
 > *"We don't just build machines — we restore control, dignity, and hope."*
+> *"We’re not just engineering machines — we’re giving people their power back."*
