@@ -52,5 +52,4 @@ EXOCORTEX aims to build a **low-cost, non-invasive brain–computer interface** 
 🌐 [github.com/Nabil2710](https://github.com/Nabil2710)
 
 ---
-
 > *"We’re not just engineering machines — we’re giving people their power back."*
